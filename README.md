@@ -2,7 +2,8 @@
 A simple D3 visualisation of numbers plotted in polar coordinates. For a number *n*, they are plotted as (n,n). Fork it if you're bored.
 
 ## master.html
-That contains the html and js scripts to visualise the numbers. 
+This contains the html and js scripts to visualise the numbers. 
+https://wilburthepiggy.github.io/polar-numbers-visualiser/master.html
 
 Eventual progression:
 1. Changing scale - for both phi and radial values.
